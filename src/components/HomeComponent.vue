@@ -17,7 +17,7 @@
                         <label for="description">Description</label>
                     </div>
                 </div>
-                <button class="btn btn-block waves-effect waves-light submit" type="button" name="action" @click="submit()">Submit</button>
+                <button class="btn btn-block waves-effect waves-light submit" type="button" name="action" @click="submit()">Emit Data</button>
             </div>
         </div>
     </div>
